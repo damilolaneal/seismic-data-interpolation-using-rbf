@@ -1,6 +1,7 @@
 RBF/build
 RBF/dist
 *.egg*
+.idea
 *~
 *.c
 *.pyc
